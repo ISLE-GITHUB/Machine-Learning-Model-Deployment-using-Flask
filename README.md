@@ -1,0 +1,1 @@
+Here, I will build a machine learning model that will predict the median house price of houses that are located in california USA. After building this model, I will pickle it and deploy it to a web application using Flask
